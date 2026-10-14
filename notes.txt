@@ -1,3 +1,9 @@
 Personal development notes.
 
 Git is a version control system that helps track changes in a project. GitHub is an online platform used to host Git repositories and facilitate collaboration. Commits record changes locally, while pushes publish commits to a remote repository.
+     
+
+Personal development notes.
+
+Git tracks changes to files through commits.
+The staging area lets me choose which changes to include in a commit.
