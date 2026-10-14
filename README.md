@@ -9,6 +9,7 @@
 
 This project demonstrates the basic Git and GitHub workflow, including repository setup, staging, commits, branches, merging, and synchronization.
 
+This repository is used to practice the Git workflow taught in Session 1.
 ## Technologies
 
 - HTML
