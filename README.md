@@ -1,4 +1,9 @@
 
+
+## Project Image
+
+![Project Banner](assets/project-banner.svg)
+
 # Git & GitHub Fundamentals — Assignment 1
 
 **Name:** Malak Baddi
@@ -28,10 +33,6 @@ git status
 ## Useful Link
 
 [Git Documentation](https://git-scm.com/doc)
-
-## Project Image
-
-![Project Banner](assets/project-banner.svg)
 
 
 ## About
