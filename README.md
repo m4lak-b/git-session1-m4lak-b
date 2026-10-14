@@ -37,3 +37,7 @@ git status
 ## About
 
 This project demonstrates the fundamental Git and GitHub workflow, including version control, commits, branching, merging, and remote synchronization.
+
+
+This sentence was added directly on GitHub to practice remote synchronization.
+
