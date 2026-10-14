@@ -32,3 +32,8 @@ git status
 ## Project Image
 
 ![Project Banner](assets/project-banner.svg)
+
+
+## About
+
+This project demonstrates the fundamental Git and GitHub workflow, including version control, commits, branching, merging, and remote synchronization.
